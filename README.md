@@ -4,7 +4,7 @@
 
 ## Description
 
-A brief description of the HighLife Sample project.
+HighLife is a versatile performance sampler for modern musicians and sound designers. It provides an intuitive platform for creating dynamic sounds with its built-in wave editor, integrated effects, and flexible modulation options.
 
 ## Table of Contents
 
